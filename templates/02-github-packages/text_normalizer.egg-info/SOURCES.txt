@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+tests/test_normalizer.py
+text_normalizer/__init__.py
+text_normalizer/normalizer.py
+text_normalizer.egg-info/PKG-INFO
+text_normalizer.egg-info/SOURCES.txt
+text_normalizer.egg-info/dependency_links.txt
+text_normalizer.egg-info/requires.txt
+text_normalizer.egg-info/top_level.txt
